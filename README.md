@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinHongLiu)](https://github.com/WinHongLiu&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinHongLiu&theme=radical)](https://github.com/WinHongLiu)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinHongLiu&hide=contribs,prs&theme=radical)
 
