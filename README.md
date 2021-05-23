@@ -1,7 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinHongLiu)](https://github.com/WinHongLiu)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinHongLiu&hide=contribs,prs)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinHongLiu&count_private=true)
 --👋 Hi, I’m @WinHongLiu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
