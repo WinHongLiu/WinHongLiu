@@ -8,6 +8,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WinHongLiu&repo=Thunderobot-ME)](https://github.com/WinHongLiu/Thunderobot-ME)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=winhongliu&layout=compact)
+
+
+一个小菜鸡，随便放出来看看，反正没有人看
 --👋 Hi, I’m @WinHongLiu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
