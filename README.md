@@ -1,6 +1,4 @@
-###目前还是一个小菜鸡
-
-
+#### <p align="center">目前还是个小菜鸡</p>
 
 
 <!-- just img -->
@@ -13,9 +11,7 @@
 ## 🔧 My project
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinHongLiu&hide=contribs,prs&theme=radical)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WinHongLiu&repo=Thunderobot-ME)](https://github.com/WinHongLiu/Thunderobot-ME)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=winhongliu&layout=compact)
 
 ## 🔭 Goals
@@ -30,7 +26,7 @@
 
 ## 📝 My GH stats
 
-[![My GH stats](https://github-readme-stats.vercel.app/api?username=wangyuan389&theme=dark)](https://github.com/winhongliu) 
+[![My GH stats](https://github-readme-stats.vercel.app/api?username=winhongliu&theme=dark)](https://github.com/winhongliu) 
 
 <!---
 WinHongLiu/WinHongLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
