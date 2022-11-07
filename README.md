@@ -1,6 +1,6 @@
 #### <p align="center">目前还是个小菜鸡</p>
-
-
+#### <p align="center">没什么有用的好项目</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=winhongliu&layout=compact)
 <!-- just img -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinHongLiu&hide=contribs,prs&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WinHongLiu&repo=Thunderobot-ME)](https://github.com/WinHongLiu/Thunderobot-ME)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=winhongliu&layout=compact)
+
 
 ## 🔭 Goals
 
