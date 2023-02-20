@@ -26,6 +26,7 @@
 
 [![My GH stats](https://github-readme-stats.vercel.app/api?username=winhongliu&theme=dark)](https://github.com/winhongliu) 
 
-<!---
-知识不是力量，分享知识才是
---->
+
+<p>
+  知识不是力量，分享知识才是
+</p>
