@@ -27,6 +27,5 @@
 [![My GH stats](https://github-readme-stats.vercel.app/api?username=winhongliu&theme=dark)](https://github.com/winhongliu) 
 
 <!---
-WinHongLiu/WinHongLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+知识不是力量，分享知识才是
 --->
