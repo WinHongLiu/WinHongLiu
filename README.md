@@ -15,7 +15,7 @@
 ## 🔭 Goals
 
 - [x] 🏆10🌟 star.（0/10）   
-- [x] 2000 followers.（1/2000）   
+- [x] 20 followers.（1/20）   
 
 <!-- ## 🧠 That I know and use
 
